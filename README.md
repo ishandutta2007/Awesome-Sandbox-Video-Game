@@ -53,9 +53,9 @@ Below is a curated list of top commercial sandbox games and UGC game creation pl
 
 ## 🔓 Open-Source GitHub Projects
 
-Explore top community-driven, open-source sandbox game engines, transport simulators, and voxel projects, sorted by **GitHub Star Count (Descending)**:
+Explore top community-driven, open-source sandbox game engines, transport simulators, and voxel projects, sorted by **GitHub Stars_Count (Descending)**:
 
-| Repository / Project 🚀 | Star Count 🌟 | License 📜 | Description & Key Features 🛠️ |
+| Repository / Project 🚀 | Stars_Count 🌟 | License 📜 | Description & Key Features 🛠️ |
 | :--- | :--- | :--- | :--- |
 | **[Luanti (formerly Minetest)](https://github.com/luanti-org/luanti)** | [![Stars](https://img.shields.io/github/stars/luanti-org/luanti?style=social&color=white)](https://github.com/luanti-org/luanti/stargazers) | LGPL-2.1 | De facto open-source voxel game engine with C++ core, Lua API, multi-platform support, and vast modding ecosystem. |
 | **[Cataclysm: Dark Days Ahead](https://github.com/CleverRaven/Cataclysm-DDA)** | [![Stars](https://img.shields.io/github/stars/CleverRaven/Cataclysm-DDA?style=social&color=white)](https://github.com/CleverRaven/Cataclysm-DDA/stargazers) | CC-BY-SA-3.0 | Turn-based post-apocalyptic survival sandbox roguelike featuring deep crafting, vehicle building, and infinite simulation. |
@@ -93,7 +93,7 @@ We welcome community contributions! Follow these steps to submit additions or up
 
 1. **Fork** the repository.
 2. Edit `README.md` following the tabular schema.
-3. Ensure open-source projects include official repository links, correct licensing, and star counts.
+3. Ensure open-source projects include official repository links, correct licensing, and Stars_Counts.
 4. Submit a **Pull Request** with a brief summary of additions.
 
 ---
